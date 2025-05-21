@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Nafisah
 
-![Nafisah](img/satoru.jpg)
+<!-- ![Nafisah](img/satoru.jpg) -->
+![Satoru Gojo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNwMGszZXhzeDZyNGNwZWd1dGtkcjJwYWc4N2dudXR5cHp3MTlnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fB2IRTXd07IkcStfwU/giphy.gif)
 <!--
 **nafisaa11/nafisaa11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,4 +19,3 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning [Laravel](https://laravel.com) Framework 
 
-![Satoru Gojo](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNwMGszZXhzeDZyNGNwZWd1dGtkcjJwYWc4N2dudXR5cHp3MTlnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fB2IRTXd07IkcStfwU/giphy.gif)
