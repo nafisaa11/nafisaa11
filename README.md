@@ -48,6 +48,11 @@
 
 ###
 
+
+<h3 align="left">Play Game with Me</h3>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nafisaa11/nafisaa11/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nafisaa11/nafisaa11/output/pacman-contribution-graph.svg">
@@ -60,9 +65,17 @@
 
 ###
 
+###
+
 ## 🎧 My Recently Played on Spotify
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=12s03emryn4rwb8h5hjqv1df4)
 
+
+<div align="center">
+  <a href="https://open.spotify.com/user/jnafisah">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jnafisah&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
